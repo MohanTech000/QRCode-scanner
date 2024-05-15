@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.MuiGrid-root {
+  display: flex !important;
+  justify-content: center !important;
+  width: 100% !important;
+  flex-direction: column !important;
+  gap: 20px !important;
+  margin: 0 25rem;
+}
+

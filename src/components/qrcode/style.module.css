@@ -1,0 +1,17 @@
+.container {
+    margin-top: 10px;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background: linear-gradient(75deg, rgb(20, 23, 33) 0%, rgb(20, 23, 33) 50%, rgba(20, 23, 33,0.8) 100%);
+    color: #fff;
+}
+
+.btn {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
